@@ -1,5 +1,6 @@
 #include <Encoder.h>
 #include <Arduino.h>
+#include <Parameter.h>>
 
 // Define the pins for the rotary encoder
 #define CLK A0
